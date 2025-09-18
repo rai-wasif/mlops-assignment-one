@@ -13,15 +13,15 @@ The purpose of this assignment is to:
 
 ## 📂 Project Structure
 mlops-assignment-1/
-├── data/ # (if any datasets are stored locally)
-├── notebooks/ # Jupyter notebooks (EDA, experiments)
-├── src/ # Source code (training scripts)
+├── data/ 
+├── notebooks/ 
+├── src/ 
 │ ├── train_models.py
 │ ├── train_with_mlflow.py
 │ └── ...
-├── models/ # Saved models (.pkl)
-├── results/ # Confusion matrices, evaluation results
-└── README.md # Documentation
+├── models/
+├── results/ 
+└── README.md 
 
 
 ---
